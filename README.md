@@ -12,10 +12,10 @@ Here is the blog link which guides you on how to create a 2.3+ million parameter
 - [Prerequisites](#prerequisites)
 - [Difference between LLaMA 2 and LLaMA 3](#difference-between-llama-2-and-llama3)
 - [Understanding the Transformer Architecture of LLaMA 3](#understanding-the-transformer-architecture-of-llama3)
-  - [1. Pre-normalization Using RMSNorm:](#1-pre-normalization-usingrmsnorm)
-  - [2. SwiGLU Activation Function:](#2-swiglu-activation-function)
-  - [3. Rotary Embeddings (RoPE):](#3-rotary-embeddings-rope)
-  - [4. Byte Pair Encoding (BPE) Algorithm](#4-byte-pair-encoding-bpe-algorithm)
+  - [Pre-normalization Using RMSNorm](#1-pre-normalization-usingrmsnorm)
+  - [SwiGLU Activation Function](#2-swiglu-activation-function)
+  - [Rotary Embeddings (RoPE)](#3-rotary-embeddings-rope)
+  - [Byte Pair Encoding (BPE) Algorithm](#4-byte-pair-encoding-bpe-algorithm)
 - [Setting the Stage](#setting-thestage)
 - [Understanding the File Structure](#understanding-the-file-structure)
 - [Tokenizing our input data](#tokenizing-our-inputdata)
@@ -28,7 +28,6 @@ Here is the blog link which guides you on how to create a 2.3+ million parameter
 - [Implementing SwiGLU Activation Function](#implementing-swiglu-activation-function)
 - [Merging everything](#merging-everything)
 - [Generating the Output](#generating-theoutput)
-  - [Hope you have enjoyed and learned new things from this blog!](#hope-you-have-enjoyed-and-learned-new-things-from-this-blog)
 
 
 ## Prerequisites
