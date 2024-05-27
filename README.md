@@ -9,8 +9,6 @@ Here is the blog link which guides you on how to create a 2.3+ million parameter
 
 ## Table of Contents
 
-- [Building LLaMA 3 LLM From Scratch using Python](#building-llama-3-llm-from-scratch-usingpython)
-- [Table of Contents](#table-of-contents)
 - [Prerequisites](#prerequisites)
 - [Difference between LLaMA 2 and LLaMA 3](#difference-between-llama-2-and-llama3)
 - [Understanding the Transformer Architecture of LLaMA 3](#understanding-the-transformer-architecture-of-llama3)
